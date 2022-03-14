@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IARU9W95nCYLdxxoWDOLqy5I+gRUXC/KwUnL87XzAJdIXO4qbzs6eRpM97xzqpIiUdLQEDv4+vqXHqCLk5m3kA==",
+  "dgSpecHash": "Sk0QzAQlvH+TO6UnHoSJVde7X2GUEJz8UPyMHha2zm2X6/6tzfodlMXY9kC1p59J4qti+vV59iD6l4a7Nc/hZA==",
   "success": true,
-  "projectFilePath": "/Users/sumeetbajaj/Projects/ConsoleAppStyleCop/ConsoleAppStyleCop/ConsoleAppStyleCop.csproj",
+  "projectFilePath": "/Users/sumeetbajaj/rd/dotnetstylecop/ConsoleAppStyleCop/ConsoleAppStyleCop.csproj",
   "expectedPackageFiles": [
     "/Users/sumeetbajaj/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{E913BBB1-111D-4AA0-9858-3A7E4E143C64}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppStyleCop/ConsoleAppStyleCop.csproj">
+    <Files>
+      <File FileName="ConsoleAppStyleCop/Program.cs" Line="10" Column="10" />
+      <File FileName="ConsoleAppStyleCop/ConsoleAppStyleCop.csproj" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleAppStyleCop" expanded="True">
+            <Node name="ConsoleAppStyleCop" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppStyleCop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

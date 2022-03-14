@@ -46,11 +46,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sumeetbajaj/Projects/ConsoleAppStyleCop/ConsoleAppStyleCop/ConsoleAppStyleCop.csproj",
+      "projectUniqueName": "/Users/sumeetbajaj/rd/dotnetstylecop/ConsoleAppStyleCop/ConsoleAppStyleCop.csproj",
       "projectName": "ConsoleAppStyleCop",
-      "projectPath": "/Users/sumeetbajaj/Projects/ConsoleAppStyleCop/ConsoleAppStyleCop/ConsoleAppStyleCop.csproj",
+      "projectPath": "/Users/sumeetbajaj/rd/dotnetstylecop/ConsoleAppStyleCop/ConsoleAppStyleCop.csproj",
       "packagesPath": "/Users/sumeetbajaj/.nuget/packages/",
-      "outputPath": "/Users/sumeetbajaj/Projects/ConsoleAppStyleCop/ConsoleAppStyleCop/obj/",
+      "outputPath": "/Users/sumeetbajaj/rd/dotnetstylecop/ConsoleAppStyleCop/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -71,6 +71,7 @@
         }
       },
       "warningProperties": {
+        "allWarningsAsErrors": true,
         "warnAsError": [
           "NU1605"
         ]

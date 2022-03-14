@@ -11,3 +11,7 @@
 /Users/sumeetbajaj/Projects/ConsoleAppStyleCop/ConsoleAppStyleCop/obj/Debug/netcoreapp3.1/ConsoleAppStyleCop.dll
 /Users/sumeetbajaj/Projects/ConsoleAppStyleCop/ConsoleAppStyleCop/obj/Debug/netcoreapp3.1/ConsoleAppStyleCop.pdb
 /Users/sumeetbajaj/Projects/ConsoleAppStyleCop/ConsoleAppStyleCop/obj/Debug/netcoreapp3.1/ConsoleAppStyleCop.genruntimeconfig.cache
+/Users/sumeetbajaj/rd/dotnetstylecop/ConsoleAppStyleCop/obj/Debug/netcoreapp3.1/ConsoleAppStyleCop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumeetbajaj/rd/dotnetstylecop/ConsoleAppStyleCop/obj/Debug/netcoreapp3.1/ConsoleAppStyleCop.AssemblyInfoInputs.cache
+/Users/sumeetbajaj/rd/dotnetstylecop/ConsoleAppStyleCop/obj/Debug/netcoreapp3.1/ConsoleAppStyleCop.AssemblyInfo.cs
+/Users/sumeetbajaj/rd/dotnetstylecop/ConsoleAppStyleCop/obj/Debug/netcoreapp3.1/ConsoleAppStyleCop.csproj.CoreCompileInputs.cache
